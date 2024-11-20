@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./img/logo.png" alt="UPO logo">
+    <img src="logo.png" alt="UPO logo">
 </p>
 
 <h3 align="center">UPO Open Source</h3>
