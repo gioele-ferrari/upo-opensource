@@ -47,8 +47,7 @@ La repository contiene appunti e materiali organizzati per corso e argomento:
   - Basi dati e sistemi informativi
 - **Anno 3**
   - Ingegneria del software
-  - Cyber Security 1
-  - Fondamenti, linguaggi e traduttori
+  - Reti 2
 
 > **Nota:** Se trovi materiale mancante o incompleto, sentiti libero di contribuire! Vedi [Contributi](#contributi) per i dettagli.
 
@@ -65,24 +64,9 @@ La repository contiene appunti e materiali organizzati per corso e argomento:
 **Linee guida:**
 
 - Utilizza nomi di file e cartelle chiari e organizzati.
-- Assicurati che i tuoi contributi siano ben formattati e corretti.
 - Non caricare materiale coperto da copyright senza autorizzazione.
 
 Trovi maggiori dettagli su come contribuire nel file [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
-# Community
-
-Unisciti alla nostra community per discutere, condividere risorse e collaborare:
-
-- **GitHub Issues**: Segnala problemi o suggerisci miglioramenti.
-
----
-
-# Regole di condotta
-
-Questa repository segue un codice di condotta per garantire un ambiente rispettoso e collaborativo. Violazioni del codice saranno gestite dai manutentori.
 
 ---
 
